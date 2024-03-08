@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **AWS and DeVops**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
