@@ -15,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhi-ashtikar&show_icons=true&locale=en&layout=compact" alt="nidhi-ashtikar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhi-ashtikar&show_icons=true&locale=en" alt="nidhi-ashtikar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi-ashtikar&" alt="nidhi-ashtikar" /></p>
