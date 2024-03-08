@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidhi Ashtikar</h1>
 <h3 align="center">AWS and DevOps: Unleash Your Full Potential</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi-ashtikar&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-ashtikar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhi-ashtikar" alt="nidhi-ashtikar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **AWS and DeVops**
 
